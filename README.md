@@ -16,7 +16,9 @@ refer to the comments to decide which elements of the page you wish to change
 
 original code provided by Horiseon Social Services Inc, Copyright 2019
 
-###### link
+###### Screenshot link and link to website
+
+https://drive.google.com/file/d/12XZgIqb-kbfola7NePnPjEAzpy8oNETA/view?usp=share_link
 
 https://milkyramen.github.io/horiseon-refactor/
 
